@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/pa0.dir/main.cpp.o  -o pa0 
