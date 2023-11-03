@@ -1,6 +1,7 @@
 #include<iostream>
 #include<cmath>
 #include<eigen3/Eigen/Core>
+
 using namespace Eigen;
 using namespace std;
 
@@ -14,6 +15,6 @@ int main() {
             sin45, cos45, 2,
             0, 0, 1;
     Vector2d result = (k * p).head(2);
-    cout << result << endl;
+    cout<<result<<endl;
     return 0;
 }
