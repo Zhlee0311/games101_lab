@@ -20,10 +20,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4e25f8f-c767-4925-bbe4-105d078963be" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pa1/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/pa1/main.cpp" afterDir="false" />
-    </list>
+    <list default="true" id="b4e25f8f-c767-4925-bbe4-105d078963be" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,10 +104,10 @@
       <window_info anchor="bottom" id="Run" />
       <window_info anchor="bottom" id="Vcpkg" show_stripe_button="false" />
       <window_info anchor="bottom" id="clangd" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Problems View" order="1" weight="0.50672877" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="2" visible="true" weight="0.51915115" />
-      <window_info anchor="bottom" id="Services" order="3" weight="0.50672877" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.51915115" />
+      <window_info anchor="bottom" id="Problems View" order="1" weight="0.4021739" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="2" visible="true" weight="0.4021739" />
+      <window_info anchor="bottom" id="Services" order="3" weight="0.51915115" />
       <window_info anchor="right" id="make" show_stripe_button="false" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
       <window_info anchor="right" id="Database" order="1" weight="0.25" />
@@ -139,7 +136,7 @@
       <workItem from="1698852846244" duration="84000" />
       <workItem from="1698913251941" duration="95000" />
       <workItem from="1698913378836" duration="18373000" />
-      <workItem from="1699019660542" duration="995000" />
+      <workItem from="1699019660542" duration="1436000" />
     </task>
     <servers />
   </component>
@@ -150,6 +147,17 @@
     <isAutomaticCheckingOnLaunch value="false" />
     <isAutomaticFoundErrors value="true" />
     <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
