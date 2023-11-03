@@ -1,3 +1,0 @@
-/home/cs18/Desktop/ASSIGNMENT/pa0/build/CMakeFiles/rebuild_cache.dir
-/home/cs18/Desktop/ASSIGNMENT/pa0/build/CMakeFiles/pa0.dir
-/home/cs18/Desktop/ASSIGNMENT/pa0/build/CMakeFiles/edit_cache.dir
