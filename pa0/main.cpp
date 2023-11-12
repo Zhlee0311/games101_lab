@@ -1,7 +1,6 @@
 #include<iostream>
 #include<cmath>
 #include<eigen3/Eigen/Core>
-
 using namespace Eigen;
 using namespace std;
 
