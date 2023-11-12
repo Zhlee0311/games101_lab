@@ -3,6 +3,6 @@
 using namespace std;
 
 int main() {
-    cout << "hell0" << endl;
-    return 0;
+    cout<<"你是？"<<endl;
+    return  0;
 }
